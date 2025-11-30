@@ -26,7 +26,7 @@ public class BankInterestCalculator {
         Bank icici = new ICICI();
         Bank axis = new AXIS();
 
-        double principal = 100000;
+        double principal = 1000000;
         double rate = 5;          
         double time = 2;          
 
